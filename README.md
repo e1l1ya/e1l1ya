@@ -8,7 +8,6 @@ Backend Developer and Web Pentester
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [eiliyakeshtkar0@gmail.com](mailto:eiliyakeshtkar0@gmail.com)
-* 🚀  I'm currently working on [Unk9vvN](https://unk9vvn.com)
 * 🧠  I'm learning GoLang, Chatbot, Mobile Pentest
 
 <a href="https://www.github.com/e1l1ya" target="_blank" rel="noreferrer"><img
